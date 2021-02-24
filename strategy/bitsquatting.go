@@ -20,7 +20,7 @@ package strategy
 import (
 	"fmt"
 
-	"zntr.io/typogenerator/helpers"
+	"github.com/michenriksen/typogenerator/helpers"
 )
 
 var BitSquatting Strategy

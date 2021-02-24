@@ -1,6 +1,6 @@
-module zntr.io/typogenerator
+module github.com/michenriksen/typogenerator
 
-go 1.14
+go 1.16
 
 require (
 	github.com/hduplooy/gocsv v0.0.0-20170503064518-de0e17983901

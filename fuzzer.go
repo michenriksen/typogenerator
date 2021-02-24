@@ -18,8 +18,7 @@
 package typogenerator
 
 import (
-	"zntr.io/typogenerator/strategy"
-
+	"github.com/michenriksen/typogenerator/strategy"
 	"github.com/weppos/publicsuffix-go/publicsuffix"
 )
 

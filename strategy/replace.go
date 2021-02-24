@@ -20,8 +20,8 @@ package strategy
 import (
 	"fmt"
 
-	"zntr.io/typogenerator/helpers"
-	"zntr.io/typogenerator/mapping"
+	"github.com/michenriksen/typogenerator/helpers"
+	"github.com/michenriksen/typogenerator/mapping"
 )
 
 type replaceStrategy struct {

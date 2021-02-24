@@ -20,7 +20,7 @@ package strategy_test
 import (
 	"testing"
 
-	"zntr.io/typogenerator/strategy"
+	"github.com/michenriksen/typogenerator/strategy"
 )
 
 func TestTLDRepeat(t *testing.T) {
